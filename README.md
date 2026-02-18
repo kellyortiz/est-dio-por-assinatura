@@ -4,6 +4,11 @@ Uma landing page moderna, focada em alta conversão para venda de planos de assi
 
 O design foi pensado para transmitir uma estética premium e "dark", muito popular na indústria musical, combinando efeitos visuais elegantes com uma navegação extremamente fluida em dispositivos móveis.
 
+📱 Conheça o Estúdio
+
+Acompanhe o estúdio, bastidores das gravações e lançamentos diretamente nas redes sociais:
+* **Instagram:** [@studio11records](https://instagram.com/studio11records)*
+  
 🔗 **[CLIQUE AQUI PARA VER O PROJETO NO AR](https://www.studio11records.com/estudio-por-assinatura)**
 
 ## ✨ Funcionalidades e Destaques
@@ -29,4 +34,5 @@ Se você deseja explorar o código na sua própria máquina, o processo é super
 3. Dê um clique duplo no arquivo index.html para abri-lo diretamente no seu navegador.
 
 🤝 Sobre o Projeto
+
 Este projeto foi desenvolvido para a Studio 11 Records com foco em design, performance e excelente usabilidade (UI/UX) para conversão de planos musicais.
